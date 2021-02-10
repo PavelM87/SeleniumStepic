@@ -1,0 +1,12 @@
+1612962812055	geckodriver	INFO	Listening on 127.0.0.1:50335
+1612962812634	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/rn/xm_jz5js0nl3cl26tr5r2tk80000gn/T/rust_mozprofilevldiGA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612962814602	Marionette	INFO	Listening on port 50347
+1612962814692	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612962814701	Marionette	ERROR	[19] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1612796559, line 2472: unreachable code after return statement
+1612963138158	Marionette	INFO	Stopped listening on port 50347
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

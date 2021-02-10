@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../HWStepic/.idea/HWStepic.iml" filepath="$PROJECT_DIR$/../HWStepic/.idea/HWStepic.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SeleniumStepik.iml" filepath="$PROJECT_DIR$/.idea/SeleniumStepik.iml" />
     </modules>
   </component>

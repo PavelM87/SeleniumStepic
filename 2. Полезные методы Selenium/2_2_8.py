@@ -20,7 +20,7 @@ try:
     email = browser.find_element(By.NAME, 'email').send_keys('Ivan@mail.ru')
 
     current_dir = os.path.abspath(os.path.dirname(__file__))
-    file_path = os.path.join(current_dir, 'example.txt')
+    file_path = os.path.join(current_dir, '../example.txt')
 
     send_file = browser.find_element(By.NAME, 'file').send_keys(file_path)
 
